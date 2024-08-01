@@ -6,7 +6,7 @@ from BrandedAi import Branded
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
+        InlineKeyboardButton(text="💖♡ ᴢɪᴅᴅɪ_ꜱʜᴀʏᴀʀ ♡💖", user_id=OWNER),
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
@@ -120,7 +120,7 @@ ABOUT_BTN = [
         InlineKeyboardButton(text="ʜᴇʟᴘ", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
+        InlineKeyboardButton(text="💖♡ ᴢɪᴅᴅɪ_ꜱʜᴀʏᴀʀ ♡💖", user_id=OWNER),
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", callback_data="SOURCE"),
     ],
     [

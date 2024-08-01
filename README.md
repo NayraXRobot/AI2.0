@@ -22,12 +22,12 @@
 </p>
 
 <p align="center">
-<b>★ 𝗩𝗜𝗣 𝗜𝗗-𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ★</b>
+<b>◄⏤͟͞ꭙͯ͢³🔥🇵eͥrfͣeͫcէ 🇸ᴍiℓe𐏓꯭ ✿᭄͜͡</b>
 </p>
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/389a8689d55081b87c6b7.jpg">
+  <img src="https://telegra.ph/file/ca413e9bb4060f631544d.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
 
